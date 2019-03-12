@@ -1,0 +1,5 @@
+first_num = int(input("Please enter one number: "))
+second_num = int(input("Please enter another number: "))
+print(first_num, "divided by" , second_num , "is equal to :")
+print(int(first_num / second_num))
+print("The remainder is" , (first_num % second_num))
