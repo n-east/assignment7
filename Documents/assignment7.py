@@ -10,3 +10,5 @@ second_num_two = int(input("Please enter anoher number: "))
 second_pair = int(first_num_two / second_num_two)
 print(first_num_two, "divided by" , second_num_two , "is equal to :", second_pair)
 print("The remainder is" , (first_num_two % second_num_two))
+
+print("The product of", first_pair, "and" , second_pair , "is" , (first_pair * second_pair))
